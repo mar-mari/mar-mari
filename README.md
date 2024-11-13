@@ -4,9 +4,9 @@
 В планах искать работу по этому направлению.
 
 ### Ссылка на резюме
-Резюме в PDF
+Резюме в [PDF](https://drive.google.com/file/d/1qrHWcTAiee2MUxgCdFE8bmWdX0I-8opd/view?usp=share_link)
 ### Контакты
-Почта <ma.martynova@mail.ru>  
+[<img src="https://img.shields.io/badge/mail-2CA5E0?style=for-the-badge&logo=maildotru&logoColor=white">](<ma.martynova@mail.ru>)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/mart_mari) 
 ### Стэк
 
