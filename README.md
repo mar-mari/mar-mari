@@ -1,0 +1,22 @@
+# Мария Мартынова
+
+На данный момент прохожу обучение в Яндекс.Практикуме по направлению Продуктовый аналитик.  
+В планах искать работу по этому направлению.
+
+### Ссылка на резюме
+Резюме в PDF
+### Контакты
+Почта <ma.martynova@mail.ru>  
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/mart_mari) 
+### Стэк
+
+<img src="https://img.shields.io/badge/PostgreSQL-FFFFF0?style=for-the-badge&logo=postgresql&logoColor=black"/> <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"> <img src="https://img.shields.io/badge/DataLens-FFFFF0?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
+
+### Проекты
+
+
+
+<!---
+mar-mari/mar-mari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
