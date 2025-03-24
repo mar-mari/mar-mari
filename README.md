@@ -10,9 +10,7 @@
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/mart_mari) 
 ### Учебные проекты
 Выполненные [проекты](https://github.com/mar-mari/DA-pet-projects) на курте Продуктовый аналитик от Яндекс.Практикума
-### Стэк
 
-<img src="https://img.shields.io/badge/PostgreSQL-FFFFF0?style=for-the-badge&logo=postgresql&logoColor=black"/> <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"> <img src="https://img.shields.io/badge/DataLens-FFFFF0?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
 
 
 
