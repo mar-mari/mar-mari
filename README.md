@@ -9,7 +9,8 @@
 <!---[<img src="https://img.shields.io/badge/mail-2CA5E0?style=for-the-badge&logo=maildotru&logoColor=white">](<ma.martynova@mail.ru>)--->
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/mart_mari) 
 ### Учебные проекты
-Выполненные [проекты](https://github.com/mar-mari/DA-pet-projects) на курте Продуктовый аналитик от Яндекс.Практикума
+Портфолио [проектов](https://github.com/mar-mari/DA-pet-projects), выполненных на курcе Продуктовый аналитик от Яндекс.Практикума
+
 
 
 
